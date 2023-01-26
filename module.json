@@ -1,9 +1,24 @@
 {
-  "name": "potato-or-not",
-  "title": "Potato Or Not",
+  "id": "potato-or-not",
+  "title": "Potato Or Not V2",
   "description": "Is your computer a potato or not? If so, this mod will prompt you that you might want to turn down your graphics.",
-  "version": "0.4.4",
-  "author": "Wasp (Wasp#2005)",
+  "version": "0.5.0",
+  "authors": [
+    {
+      "name": "Wasp",
+      "discord": "Wasp#2005",
+      "url": "https://github.com/Haxxer"
+    },
+    {
+      "name": "ModernCannabist",
+      "discord": "ModernCannabist#8321",
+      "url": "https://github.com/Abourass"
+    }
+  ],
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10.291"
+  },
   "esmodules": [
     "scripts/main.js"
   ],
@@ -39,10 +54,8 @@
       "path": "languages/ja.json"
     }
   ],
-  "minimumCoreVersion": "0.7.7",
-  "compatibleCoreVersion": "9.000",
-  "url": "https://github.com/Haxxer/FoundryVTT-PotatoOrNot",
-  "manifest": "https://github.com/Haxxer/FoundryVTT-PotatoOrNot/releases/latest/download/module.json",
-  "download": "https://github.com/Haxxer/FoundryVTT-PotatoOrNot/releases/latest/download/module.zip"
+  "url": "https://github.com/Abourass/FoundryVTT-PotatoOrNot",
+  "manifest": "https://github.com/Abourass/FoundryVTT-PotatoOrNot/releases/latest/download/module.json",
+  "download": "https://github.com/Abourass/FoundryVTT-PotatoOrNot/releases/latest/download/module.zip"
 }
 
