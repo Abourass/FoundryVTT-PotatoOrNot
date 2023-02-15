@@ -1,0 +1,29 @@
+{
+  "name": "foundryvtt-potatoornot",
+  "version": "1.0.0",
+  "description": "FoundryVTT Module to help users choose the right settings for their PC level",
+  "main": "module.json",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "Create New Version": "node ./buildNewPackage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abourass/FoundryVTT-PotatoOrNot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abourass/FoundryVTT-PotatoOrNot/issues"
+  },
+  "homepage": "https://github.com/Abourass/FoundryVTT-PotatoOrNot#readme",
+  "devDependencies": {
+    "@types/archiver": "^5.3.1",
+    "@types/node": "^18.13.0"
+  },
+  "dependencies": {
+    "archiver": "^5.3.1"
+  }
+}
