@@ -56,5 +56,5 @@
   ],
   "url": "https://github.com/Abourass/FoundryVTT-PotatoOrNot",
   "manifest": "https://raw.githubusercontent.com/Abourass/FoundryVTT-PotatoOrNot/main/module.json",
-  "download": "https://github.com/Abourass/FoundryVTT-PotatoOrNot/main/potatoOrNot.zip"
+  "download": "https://raw.githubusercontent.com/Abourass/FoundryVTT-PotatoOrNot/main/potatoOrNot.zip"
 }
