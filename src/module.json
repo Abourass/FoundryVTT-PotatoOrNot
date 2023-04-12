@@ -1,8 +1,8 @@
 {
-  "id": "potato-or-not",
+  "id": "potato-or-not-v2",
   "title": "Potato Or Not V2",
-  "description": "Is your computer a potato or not? If so, this mod will prompt you that you might want to turn down your graphics.",
-  "version": "1.0.0",
+  "description": "An extended version of FantasyCalender's Potato Or Not module. This module adds additional settings to reduce the graphics quality of Dice-So-Nice",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Wasp",
@@ -15,12 +15,17 @@
       "url": "https://github.com/Abourass"
     }
   ],
+  "minimumCoreVersion": "10",
   "compatibility": {
     "minimum": 10,
+    "maximum": 10,
     "verified": "10.291"
   },
   "esmodules": [
     "scripts/main.js"
+  ],
+  "styles": [
+    "styles/styles.css"
   ],
   "languages": [
     {
@@ -56,5 +61,8 @@
   ],
   "url": "https://github.com/Abourass/FoundryVTT-PotatoOrNot",
   "manifest": "https://raw.githubusercontent.com/Abourass/FoundryVTT-PotatoOrNot/main/module.json",
-  "download": "https://raw.githubusercontent.com/Abourass/FoundryVTT-PotatoOrNot/main/potatoOrNot.zip"
+  "download": "https://raw.githubusercontent.com/Abourass/FoundryVTT-PotatoOrNot/main/potatoOrNot.zip",
+  "readme": "https://github.com/Abourass/FoundryVTT-PotatoOrNo/blob/master/README.md",
+  "bugs": "https://github.com/Abourass/FoundryVTT-PotatoOrNo/issues",
+  "allowBugReporter": true
 }
