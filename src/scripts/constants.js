@@ -57,6 +57,7 @@ CONSTANTS.BASE_SETTINGS = [
       "mipmap": false,
       "visionAnimation": false,
       "lightAnimation": false,
+      "fpsMeter": false,
     },
     "dice-so-nice": {
       "maxDiceNumber": 20,
@@ -71,6 +72,7 @@ CONSTANTS.BASE_SETTINGS = [
       "mipmap": true,
       "visionAnimation": true,
       "lightAnimation": true,
+      "fpsMeter": true,
     },
     "dice-so-nice": {
       "maxDiceNumber": 50,
@@ -85,6 +87,7 @@ CONSTANTS.BASE_SETTINGS = [
       "mipmap": true,
       "visionAnimation": true,
       "lightAnimation": true,
+      "fpsMeter": true,
     },
     "dice-so-nice": {
       "maxDiceNumber": 100,
